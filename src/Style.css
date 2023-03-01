@@ -1,0 +1,16 @@
+header{
+    height: 100px;
+    border: 1px solid blue;
+}
+main{
+    height: 1500px;
+    border: 1px solid black;
+}
+footer{
+    height: 200px;
+    border: 1px solid blue;
+
+}
+.r_tbdr{
+    border: 1px solid blue;
+}
